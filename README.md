@@ -8,3 +8,4 @@
  Jüri Vaitmaa
 
 # ERD
+<img width="1201" height="768" alt="image" src="https://github.com/user-attachments/assets/dbcc4f92-2c44-4b22-a541-15b6a0c70a98" />
