@@ -8,9 +8,9 @@
  Jüri Vaitmaa
 
 # Kuidas projekti käima panna
-Ava projekti kaust visual codega
-ava kaustas "backend" terminal
-sisesta terminali käsklused 
+- Ava projekti kaust visual codega
+- ava kaustas "backend" terminal
+- sisesta terminali käsklused 
 ```
 npm i
 npm run dev
